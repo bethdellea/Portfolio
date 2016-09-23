@@ -1,3 +1,6 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
 #pi{
     background-color: palevioletred
     
@@ -12,7 +15,10 @@ a:link {
     text-decoration: none;
     color: black;
 }
-
+#name{
+    font-family: 'Lobster Two', cursive;
+    font-size: 1.6em;
+}
 a:visited {
     text-decoration: none;
     color: black;
