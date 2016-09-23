@@ -1,39 +1,28 @@
 body{
-font-family: 'Open Sans', sans-serif;
-}
-#pi{
-    background-color: palevioletred
-    
-}
-#po{
-    background-color: aqua
-}
-#pum{
-    background-color: beige
+font-family: 'Roboto', sans-serif;
 }
 a:link {
     text-decoration: none;
-    color: black;
+    color: #777;
 }
 #name{
-    font-family: 'Lobster Two', cursive;
-    font-size: 1.6em;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 1.9em;
 }
 a:visited {
     text-decoration: none;
-    color: black;
-
+    color: #777;
 }
 
 a:hover {
     text-decoration: none;
-    color: green;
+    color: black;
+/*    color: #00e672;*/
 
 }
-
 a:active {
     text-decoration: none;
-    color: black;
+    color: #777;
 }
 .element {
   position: relative;
