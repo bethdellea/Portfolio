@@ -7,3 +7,6 @@ $(function() {
         'margin-top' : function() {return -$(this).outerHeight()/2}
     });
 });
+$(document).ready(function() {
+    $(".fancybox").fancybox();
+});
