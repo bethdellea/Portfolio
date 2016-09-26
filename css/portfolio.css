@@ -27,36 +27,12 @@ a:active {
     text-decoration: none;
     color: black;
 }
-.element {
-/*  position: relative;*/
-/*  top: 50%;*/
-/*  transform: translateY(-50%);*/
-}
-.parent {
-/*  position: relative;*/
-}
-.child {
-/*  position: absolute;*/
-/*  top: 50%;*/
-/*  left: 50%;*/
-/*  transform: translate(-50%, -50%);*/
-}
-.vertical-center {
-  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
-  min-height: 100vh; /* These two lines are counted as one :-)       */
-
-/*  display: flex;*/
-/*  align-items: center;*/
-}
-.bg{
-    width:80%;
-}
-.spacer{
-    height:100px;
-}
 a.current {
   color:#222;
 }
 html {
   font-size: 14px;
+}
+.bg{
+    width:80%;
 }
