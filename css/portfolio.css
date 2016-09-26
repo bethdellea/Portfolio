@@ -8,7 +8,12 @@ a:link {
 }
 #name{
     font-family: 'Grand Hotel', cursive;
-    font-size: 1.9em;
+    font-size: 70px;
+}
+@media(max-width: 480px) {
+  #name {
+    font-size: 70px;
+  }
 }
 a:visited {
     text-decoration: none;
@@ -50,4 +55,10 @@ width:80%;
 }
 .spacer{
     height:100px;
+}
+a.current {
+  color:#222;
+}
+html {
+  font-size: 14px;
 }
