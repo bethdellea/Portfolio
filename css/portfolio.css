@@ -18,12 +18,10 @@ a:visited {
 a:hover {
     text-decoration: none;
     color: black;
-/*    color: #00e672;*/
-
 }
 a:active {
     text-decoration: none;
-    color: #777;
+    color: black;
 }
 .element {
   position: relative;
