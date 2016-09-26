@@ -1,3 +1,4 @@
+/* this function is what  was messing with the logo positioning
 $(function() {
     $('.bg').css({
         'position' : 'absolute',
@@ -7,6 +8,8 @@ $(function() {
         'margin-top' : function() {return -$(this).outerHeight()/2}
     });
 });
+
+*/
 $(document).ready(function() {
     $(".fancybox").fancybox();
 });
